@@ -1,7 +1,7 @@
 /*
     Matthew Ludwig
     27 February 2019
-    This program is a version of 
+    This program is a modified version of the giggiy program, which radomly generates 3 line rhyming poems
  */
 
 package triplets;
